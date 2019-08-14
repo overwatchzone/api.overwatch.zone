@@ -1,4 +1,26 @@
 {
-  "koth": {
+  "upgrade-shop": {
+    "display_name": "Upgrade Shop",
+    "images": {
+      "background": null,
+      "header": null,
+      "icon": null,
+      "splash": null
+    },
+    "descriptions": {
+      "short": "A multi-map, FFA, upgrade shop.",
+      "long": null
+    },
+    "github_link": "https://github.com/OverwatchZone/upgrade-shop",
+    "trello_link": "https://trello.com/b/72ITq4w0/upgrade-shop",
+    "current_version": null,
+    "version_history": {
+      "0.0.0-example": {
+        "state": "alpha|beta|stable",
+        "changelog": "Example changelog",
+        "workshop_code": "1234"
+      }
+    },
+    "show": true
   }
 }
